@@ -1,0 +1,50 @@
+E:\USER\Documents\Esime\9º semestre\Agentes inteligentes\05_Perceptron Iirs-Plant\05_Perceptron Iirs-Plant\bin\Debug\net6.0-windows\05_Perceptron Iirs-Plant.exe
+E:\USER\Documents\Esime\9º semestre\Agentes inteligentes\05_Perceptron Iirs-Plant\05_Perceptron Iirs-Plant\bin\Debug\net6.0-windows\05_Perceptron Iirs-Plant.deps.json
+E:\USER\Documents\Esime\9º semestre\Agentes inteligentes\05_Perceptron Iirs-Plant\05_Perceptron Iirs-Plant\bin\Debug\net6.0-windows\05_Perceptron Iirs-Plant.runtimeconfig.json
+E:\USER\Documents\Esime\9º semestre\Agentes inteligentes\05_Perceptron Iirs-Plant\05_Perceptron Iirs-Plant\bin\Debug\net6.0-windows\05_Perceptron Iirs-Plant.dll
+E:\USER\Documents\Esime\9º semestre\Agentes inteligentes\05_Perceptron Iirs-Plant\05_Perceptron Iirs-Plant\bin\Debug\net6.0-windows\05_Perceptron Iirs-Plant.pdb
+E:\USER\Documents\Esime\9º semestre\Agentes inteligentes\05_Perceptron Iirs-Plant\05_Perceptron Iirs-Plant\bin\Debug\net6.0-windows\Aspose.Words.Pdf2Word.dll
+E:\USER\Documents\Esime\9º semestre\Agentes inteligentes\05_Perceptron Iirs-Plant\05_Perceptron Iirs-Plant\bin\Debug\net6.0-windows\Aspose.Words.dll
+E:\USER\Documents\Esime\9º semestre\Agentes inteligentes\05_Perceptron Iirs-Plant\05_Perceptron Iirs-Plant\bin\Debug\net6.0-windows\SkiaSharp.dll
+E:\USER\Documents\Esime\9º semestre\Agentes inteligentes\05_Perceptron Iirs-Plant\05_Perceptron Iirs-Plant\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+E:\USER\Documents\Esime\9º semestre\Agentes inteligentes\05_Perceptron Iirs-Plant\05_Perceptron Iirs-Plant\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+E:\USER\Documents\Esime\9º semestre\Agentes inteligentes\05_Perceptron Iirs-Plant\05_Perceptron Iirs-Plant\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+E:\USER\Documents\Esime\9º semestre\Agentes inteligentes\05_Perceptron Iirs-Plant\05_Perceptron Iirs-Plant\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+E:\USER\Documents\Esime\9º semestre\Agentes inteligentes\05_Perceptron Iirs-Plant\05_Perceptron Iirs-Plant\obj\Debug\net6.0-windows\05_Perceptron Iirs-Plant.csproj.AssemblyReference.cache
+E:\USER\Documents\Esime\9º semestre\Agentes inteligentes\05_Perceptron Iirs-Plant\05_Perceptron Iirs-Plant\obj\Debug\net6.0-windows\_05_Perceptron_Iirs_Plant.Form1.resources
+E:\USER\Documents\Esime\9º semestre\Agentes inteligentes\05_Perceptron Iirs-Plant\05_Perceptron Iirs-Plant\obj\Debug\net6.0-windows\05_Perceptron Iirs-Plant.csproj.GenerateResource.cache
+E:\USER\Documents\Esime\9º semestre\Agentes inteligentes\05_Perceptron Iirs-Plant\05_Perceptron Iirs-Plant\obj\Debug\net6.0-windows\05_Perceptron Iirs-Plant.GeneratedMSBuildEditorConfig.editorconfig
+E:\USER\Documents\Esime\9º semestre\Agentes inteligentes\05_Perceptron Iirs-Plant\05_Perceptron Iirs-Plant\obj\Debug\net6.0-windows\05_Perceptron Iirs-Plant.AssemblyInfoInputs.cache
+E:\USER\Documents\Esime\9º semestre\Agentes inteligentes\05_Perceptron Iirs-Plant\05_Perceptron Iirs-Plant\obj\Debug\net6.0-windows\05_Perceptron Iirs-Plant.AssemblyInfo.cs
+E:\USER\Documents\Esime\9º semestre\Agentes inteligentes\05_Perceptron Iirs-Plant\05_Perceptron Iirs-Plant\obj\Debug\net6.0-windows\05_Perceptron Iirs-Plant.csproj.CoreCompileInputs.cache
+E:\USER\Documents\Esime\9º semestre\Agentes inteligentes\05_Perceptron Iirs-Plant\05_Perceptron Iirs-Plant\obj\Debug\net6.0-windows\05_Perceptron Iirs-Plant.csproj.CopyComplete
+E:\USER\Documents\Esime\9º semestre\Agentes inteligentes\05_Perceptron Iirs-Plant\05_Perceptron Iirs-Plant\obj\Debug\net6.0-windows\05_Perceptron Iirs-Plant.dll
+E:\USER\Documents\Esime\9º semestre\Agentes inteligentes\05_Perceptron Iirs-Plant\05_Perceptron Iirs-Plant\obj\Debug\net6.0-windows\refint\05_Perceptron Iirs-Plant.dll
+E:\USER\Documents\Esime\9º semestre\Agentes inteligentes\05_Perceptron Iirs-Plant\05_Perceptron Iirs-Plant\obj\Debug\net6.0-windows\05_Perceptron Iirs-Plant.pdb
+E:\USER\Documents\Esime\9º semestre\Agentes inteligentes\05_Perceptron Iirs-Plant\05_Perceptron Iirs-Plant\obj\Debug\net6.0-windows\05_Perceptron Iirs-Plant.genruntimeconfig.cache
+E:\USER\Documents\Esime\9º semestre\Agentes inteligentes\05_Perceptron Iirs-Plant\05_Perceptron Iirs-Plant\obj\Debug\net6.0-windows\ref\05_Perceptron Iirs-Plant.dll
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\IPN 9\Agentes Inteligentes Expertos\Códigos\05_Perceptron_Iirs-Plant\bin\Debug\net6.0-windows\05_Perceptron Iirs-Plant.exe
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\IPN 9\Agentes Inteligentes Expertos\Códigos\05_Perceptron_Iirs-Plant\bin\Debug\net6.0-windows\05_Perceptron Iirs-Plant.deps.json
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\IPN 9\Agentes Inteligentes Expertos\Códigos\05_Perceptron_Iirs-Plant\bin\Debug\net6.0-windows\05_Perceptron Iirs-Plant.runtimeconfig.json
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\IPN 9\Agentes Inteligentes Expertos\Códigos\05_Perceptron_Iirs-Plant\bin\Debug\net6.0-windows\05_Perceptron Iirs-Plant.dll
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\IPN 9\Agentes Inteligentes Expertos\Códigos\05_Perceptron_Iirs-Plant\bin\Debug\net6.0-windows\05_Perceptron Iirs-Plant.pdb
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\IPN 9\Agentes Inteligentes Expertos\Códigos\05_Perceptron_Iirs-Plant\bin\Debug\net6.0-windows\Aspose.Words.Pdf2Word.dll
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\IPN 9\Agentes Inteligentes Expertos\Códigos\05_Perceptron_Iirs-Plant\bin\Debug\net6.0-windows\Aspose.Words.dll
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\IPN 9\Agentes Inteligentes Expertos\Códigos\05_Perceptron_Iirs-Plant\bin\Debug\net6.0-windows\SkiaSharp.dll
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\IPN 9\Agentes Inteligentes Expertos\Códigos\05_Perceptron_Iirs-Plant\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\IPN 9\Agentes Inteligentes Expertos\Códigos\05_Perceptron_Iirs-Plant\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\IPN 9\Agentes Inteligentes Expertos\Códigos\05_Perceptron_Iirs-Plant\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\IPN 9\Agentes Inteligentes Expertos\Códigos\05_Perceptron_Iirs-Plant\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\IPN 9\Agentes Inteligentes Expertos\Códigos\05_Perceptron_Iirs-Plant\obj\Debug\net6.0-windows\05_Perceptron Iirs-Plant.csproj.AssemblyReference.cache
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\IPN 9\Agentes Inteligentes Expertos\Códigos\05_Perceptron_Iirs-Plant\obj\Debug\net6.0-windows\_05_Perceptron_Iirs_Plant.Form1.resources
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\IPN 9\Agentes Inteligentes Expertos\Códigos\05_Perceptron_Iirs-Plant\obj\Debug\net6.0-windows\05_Perceptron Iirs-Plant.csproj.GenerateResource.cache
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\IPN 9\Agentes Inteligentes Expertos\Códigos\05_Perceptron_Iirs-Plant\obj\Debug\net6.0-windows\05_Perceptron Iirs-Plant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\IPN 9\Agentes Inteligentes Expertos\Códigos\05_Perceptron_Iirs-Plant\obj\Debug\net6.0-windows\05_Perceptron Iirs-Plant.AssemblyInfoInputs.cache
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\IPN 9\Agentes Inteligentes Expertos\Códigos\05_Perceptron_Iirs-Plant\obj\Debug\net6.0-windows\05_Perceptron Iirs-Plant.AssemblyInfo.cs
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\IPN 9\Agentes Inteligentes Expertos\Códigos\05_Perceptron_Iirs-Plant\obj\Debug\net6.0-windows\05_Perceptron Iirs-Plant.csproj.CoreCompileInputs.cache
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\IPN 9\Agentes Inteligentes Expertos\Códigos\05_Perceptron_Iirs-Plant\obj\Debug\net6.0-windows\05_Perceptron Iirs-Plant.csproj.CopyComplete
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\IPN 9\Agentes Inteligentes Expertos\Códigos\05_Perceptron_Iirs-Plant\obj\Debug\net6.0-windows\05_Perceptron Iirs-Plant.dll
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\IPN 9\Agentes Inteligentes Expertos\Códigos\05_Perceptron_Iirs-Plant\obj\Debug\net6.0-windows\refint\05_Perceptron Iirs-Plant.dll
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\IPN 9\Agentes Inteligentes Expertos\Códigos\05_Perceptron_Iirs-Plant\obj\Debug\net6.0-windows\05_Perceptron Iirs-Plant.pdb
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\IPN 9\Agentes Inteligentes Expertos\Códigos\05_Perceptron_Iirs-Plant\obj\Debug\net6.0-windows\05_Perceptron Iirs-Plant.genruntimeconfig.cache
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\IPN 9\Agentes Inteligentes Expertos\Códigos\05_Perceptron_Iirs-Plant\obj\Debug\net6.0-windows\ref\05_Perceptron Iirs-Plant.dll
